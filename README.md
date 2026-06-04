@@ -52,6 +52,17 @@ Frontend runs on:
 
 http://localhost:3000
 
+## Deployment Links
+
+Live Frontend:
+https://full-stack-task-manager-seven.vercel.app/
+
+Backend API:
+https://task-manager-backend-rxg7.onrender.com
+
+GitHub Repository:
+https://github.com/mvkprasad06-ctrl/full-stack-task-manager
+
 ## Project Status
 
 Completed successfully as a full-stack internship capstone project.
